@@ -1,5 +1,5 @@
 /*@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@700&display=swap');*/
-
+/*test*/
 #livechatzone_wrapper {
 	position: fixed;
 	left: 0;
@@ -161,8 +161,7 @@ a:hover {
 	margin: 0px auto;
 	margin-bottom: 0;
 	padding: 12px;
-	/*background: #fff;*/
-	background: red;
+	background: #fff;
 	max-width: 100%;
 	border: none;
 	border-bottom: 0 solid #d6d6d6;
