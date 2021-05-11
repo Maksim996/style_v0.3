@@ -161,7 +161,8 @@ a:hover {
 	margin: 0px auto;
 	margin-bottom: 0;
 	padding: 12px;
-	background: #fff;
+	/*background: #fff;*/
+	background: red;
 	max-width: 100%;
 	border: none;
 	border-bottom: 0 solid #d6d6d6;
